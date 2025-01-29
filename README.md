@@ -18,6 +18,7 @@ Welcome to my **Supervised Learning** repository! 🎉 Here, I upload all the ma
 
 ## 🛠️ Upcoming Models  
 
+### 🔸 **Diabetes Prediction Model**  
 ### 🔸 **A Simple Linear Regression Model**  
 - Will be added soon! 🚀  
 - Stay tuned for updates.  
