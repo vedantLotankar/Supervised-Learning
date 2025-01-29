@@ -4,23 +4,21 @@ Welcome to my **Supervised Learning** repository! 🎉 Here, I upload all the ma
 
 <br/>
 
-## 🗂 Current Progress  
+## 🗂 Completed Models 
 
 ### 🔹 **Mumbai Housing Prices Prediction**  
-- **Linear Regression Model**:  
-  - **R² Score**: 0.5805  
-  - **Mean Squared Error (MSE):** 0.4195
-  - **Status**: Did not fit the dataset properly. 
 - **Polynomial Regression Model**:  
-  - **R² Score**: 0.9850  
-  - **Mean Squared Error (MSE)**: 0.0150  
-  - **Status**: A lot more accurate than the linear model. Decided to go with this model for predicting Mumbai housing prices. 🏡🌏  
+- **R² Score**: 0.9850
+### 🔹 **Spam E-mail Detection**:
+- **Logistic Regression Model**:
+- **Accuracy**: 0.974087
+  
 
 <br/>
 
 ## 🛠️ Upcoming Models  
 
-### 🔸 **Logistic Regression Model**  
+### 🔸 **A Simple Linear Regression Model**  
 - Will be added soon! 🚀  
 - Stay tuned for updates.  
 
