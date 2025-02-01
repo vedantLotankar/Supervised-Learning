@@ -35,7 +35,7 @@ This repository is a collection of my supervised learning experiments and models
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/supervised-learning.git
+   https://github.com/vedantLotankar/Supervised-Learning.git
    ```  
 2. Explore the models in the respective folders.  
 3. Contribute or suggest improvements via pull requests.  
